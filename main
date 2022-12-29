@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Lans</title>
+  <style>
+    body {
+      background-color: gray;
+    }
+    h1 {
+      font-family: Arial;
+      font-size: 60px;
+    }
+  </style>
+</head>
+<body>
+  <h1>I eat bread</h1>
+</body>
+</html>
